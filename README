@@ -2,8 +2,8 @@
 | zx-mining |
 -------------
 
-date
-unixtime
+date       2021-11-22
+unixtime   1637565248
 version    0.1.0
 mining     https://en.bitcoin.it/wiki/Block_hashing_algorithm
 

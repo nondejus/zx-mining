@@ -5,7 +5,7 @@
 date
 unixtime
 version    0.1.0
-mining
+mining     https://en.bitcoin.it/wiki/Block_hashing_algorithm
 
 =======
 
